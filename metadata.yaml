@@ -1,0 +1,30 @@
+_repo: Notes-and-Letters-on-the-Natural-History-of-NorfolkMore-Especially-on-the-Birds-and-Fishes_35888
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Browne, Thomas, Sir
+    birthdate: 1605
+    deathdate: 1682
+    gutenberg_agent_id: '304'
+    url: http://www.gutenberg.org/2009/agents/304
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Browne
+description: ''
+gutenberg_issued: '2011-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35888'
+  lccn: 03005283
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history -- England -- Norfolk'
+- !lcc 'QL'
+title: 'Notes and Letters on the Natural History of Norfolk
+
+  More Especially on the Birds and Fishes'
+url: http://www.gutenberg.org/ebooks/35888
