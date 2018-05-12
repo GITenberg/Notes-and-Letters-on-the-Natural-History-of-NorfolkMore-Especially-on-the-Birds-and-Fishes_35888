@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/304
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Browne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35888#Notes-and-Letters-on-the-Natural-History-of-NorfolkMore-Especially-on-the-Birds-and-Fishes
 gutenberg_issued: '2011-04-16'
 gutenberg_type: Text
 identifiers:
